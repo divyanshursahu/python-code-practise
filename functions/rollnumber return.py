@@ -27,3 +27,19 @@ roll_call(roll_list,usrin)
 # process_list(my_list, user_input)
 
 
+# my_string = "Hello"
+# for i in range(len(my_string)):
+#   print (my_string)
+#   my_string = 'a'
+
+# my_string = "Hello World"
+# i = "H"
+# print(i)
+# while i in my_string:
+#   print(i)
+
+i = 0
+while i < 3:
+  print(i)
+  i++
+  print i+1
