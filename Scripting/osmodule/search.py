@@ -1,6 +1,7 @@
 import os
 
-for dirpath,dirname,filename in os.walk('/Users/divyanshusahu/Downloads/Python/osmodule'):
+path ='/Users/divyanshusahu/Downloads/Github/python-code-practise/Scripting/osmodule/file-handling'
+for dirpath,dirname,filename in os.walk(path):
     print(dirpath)
     print(dirname)
     print(filename)

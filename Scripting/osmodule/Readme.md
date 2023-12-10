@@ -35,7 +35,8 @@ https://www.javatpoint.com/python-os-module
 https://python101.pythonlibrary.org/chapter16_os.html
 https://vegibit.com/python-os-module-tutorial/
 
-
+### File handling
+https://www.pythonforbeginners.com/filehandling/file-handling-using-os-module-in-python
 
 ## subprocess module
 
