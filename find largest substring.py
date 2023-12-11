@@ -1,7 +1,7 @@
 def largest_substring(str1,str2):
     
     max_length = 0
-    newstr = ''
+    # newstr = ''
     for i in range(len(str1)):
         for j in range(len(str2)):
             length = 0
@@ -10,7 +10,7 @@ def largest_substring(str1,str2):
             
             if length > max_length:
                 max_length = length
-                print(max_length)
+                # print(max_length)
                 result = str1[i:i+length]
     return result
 
